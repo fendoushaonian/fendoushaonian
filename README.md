@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Liu HongYun
-- 👀 I want to create more products about my predecessor Xiaoyu for everyone to use
-- 💞️ I hope everyone can support me more
+- 👋 我的名字叫刘鸿运,18岁了.
+- 👀 我只想创造一个属于和前女友的专属世界
 
 <!---
-I officially started writing my own project on Github from May 1st, 2024
+我也希望我写的项目，可以帮助大家伙
 --->
